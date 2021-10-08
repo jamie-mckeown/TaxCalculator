@@ -1,0 +1,11 @@
+================
+Wed 15 Sep 2021
+================
+
+-   Edit typos out of tax_calculator.py
+
+================
+Sun 18 Jul 2021
+================
+
+-   Add basic functionality to take a 4-week salary, compute National Insurance and Income Tax, and produce the take-home pay via the command line.
